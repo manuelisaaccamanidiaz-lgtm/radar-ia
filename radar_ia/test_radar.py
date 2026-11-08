@@ -147,3 +147,18 @@ def test_respuesta_incoherente_se_rechaza(es_pertinente, sentimiento):
 def test_categoria_inventada_se_rechaza():
     with pytest.raises(ValueError):
         AnalisisOpinion(es_pertinente=True, sentimiento="feliz", razon="razón")
+
+
+def test_fallo_de_escritura_conserva_el_original(ruta, monkeypatch):
+    alm.guardar_opinion(ruta, nuevo_registro())
+    contenido_antes = ruta.read_text(encoding="utf-8")
+
+    def replace_sin_permiso(*_args):
+        raise PermissionError("Permiso denegado (simulado)")
+
+    monkeypatch.setattr(alm.os, "replace", replace_sin_permiso)
+    with pytest.raises(alm.ErrorAlmacenamiento, match="No se pudo escribir"):
+        alm.guardar_opinion(ruta, nuevo_registro())
+
+    assert ruta.read_text(encoding="utf-8") == contenido_antes   # el original intacto
+    assert list(ruta.parent.glob(".opiniones_*.tmp")) == []       # sin temporales sueltos
