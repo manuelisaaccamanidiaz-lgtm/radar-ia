@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "opiniones": [
+    {
+      "id": "aa56179b-8d0f-42d0-8f31-c1bcea8a6704",
+      "fecha_utc": "2026-11-08T19:59:32+00:00",
+      "herramienta_id": "h001",
+      "herramienta_nombre": "ChatGPT",
+      "opinion_original": "me parece interesante en un futuro deberia de no consumir tokes blablabla",
+      "sentimiento": "neutro",
+      "razon": "La opinión considera interesante la herramienta y sugiere un cambio futuro sobre el consumo de tokens, sin emitir una valoración positiva o negativa definitiva.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "7be0c660-f261-51af-ab33-691470093808",
+      "fecha_utc": "2026-11-08T20:07:38+00:00",
+      "herramienta_id": "h001",
+      "herramienta_nombre": "ChatGPT",
+      "opinion_original": "Sus respuestas son claras y me ahorran horas de trabajo cada semana.",
+      "sentimiento": "positivo",
+      "razon": "La opinión elogia la claridad de las respuestas y destaca el ahorro significativo de tiempo en el trabajo.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "11b80d2b-4a5f-583a-b2c2-a18e7a72ef17",
+      "fecha_utc": "2026-11-08T20:07:39+00:00",
+      "herramienta_id": "h001",
+      "herramienta_nombre": "ChatGPT",
+      "opinion_original": "Me inventó una cita bibliográfica que no existe y casi la entrego en clase.",
+      "sentimiento": "negativo",
+      "razon": "La opinión expresa una queja sobre un fallo importante de la herramienta al inventar una cita bibliográfica falsa.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "b505c769-b44f-5c96-8f46-7a7e85792342",
+      "fecha_utc": "2026-11-08T20:07:40+00:00",
+      "herramienta_id": "h001",
+      "herramienta_nombre": "ChatGPT",
+      "opinion_original": "Lo uso principalmente para redactar correos y resumir documentos.",
+      "sentimiento": "neutro",
+      "razon": "La opinión describe de forma neutral las tareas principales para las que el usuario utiliza la herramienta.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "9d730056-48bf-5e0d-895d-162b55af0568",
+      "fecha_utc": "2026-11-08T20:07:41+00:00",
+      "herramienta_id": "h001",
+      "herramienta_nombre": "ChatGPT",
+      "opinion_original": "Explica muy bien los conceptos, pero a veces se equivoca con cálculos sencillos.",
+      "sentimiento": "mixto",
+      "razon": "La opinión elogia la capacidad de la herramienta para explicar conceptos, pero critica sus errores en cálculos sencillos.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "9022ba3a-2450-5951-88da-4443dadab27a",
+      "fecha_utc": "2026-11-08T20:07:42+00:00",
+      "herramienta_id": "h002",
+      "herramienta_nombre": "Claude",
+      "opinion_original": "Me ayudó a entender un código enorme explicándolo paso a paso, excelente.",
+      "sentimiento": "positivo",
+      "razon": "La opinión elogia la utilidad de la herramienta al explicar un código paso a paso y la califica como excelente.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "0f271654-ba11-594d-93d2-58a6c7c90b7e",
+      "fecha_utc": "2026-11-08T20:07:43+00:00",
+      "herramienta_id": "h002",
+      "herramienta_nombre": "Claude",
+      "opinion_original": "Sus respuestas son demasiado largas y me cuesta encontrar lo importante.",
+      "sentimiento": "negativo",
+      "razon": "La opinión critica que las respuestas son demasiado largas y dificultan encontrar la información importante.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "74706305-4f66-5291-ab50-616b07067c55",
+      "fecha_utc": "2026-11-08T20:07:44+00:00",
+      "herramienta_id": "h002",
+      "herramienta_nombre": "Claude",
+      "opinion_original": "Es un asistente que permite adjuntar archivos y hacer preguntas sobre ellos.",
+      "sentimiento": "neutro",
+      "razon": "La opinión describe de forma objetiva las características principales de la herramienta sin emitir valoraciones positivas ni negativas.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "125ee2ca-12b2-5012-a304-146fc794dde3",
+      "fecha_utc": "2026-11-08T20:07:45+00:00",
+      "herramienta_id": "h002",
+      "herramienta_nombre": "Claude",
+      "opinion_original": "Escribe con un estilo muy natural, aunque a veces se niega a cosas sencillas.",
+      "sentimiento": "mixto",
+      "razon": "La opinión elogia el estilo natural de escritura de la herramienta, pero critica que a veces se niega a realizar tareas sencillas.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "c9d02753-d146-5e93-99f1-9190cf5c1b32",
+      "fecha_utc": "2026-11-08T20:07:46+00:00",
+      "herramienta_id": "h003",
+      "herramienta_nombre": "Gemini",
+      "opinion_original": "Integrarlo con mis documentos de Google me facilitó mucho el estudio.",
+      "sentimiento": "positivo",
+      "razon": "La opinión elogia la integración con los documentos de Google y destaca cómo facilita el estudio.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "739d03a9-c068-5041-b19e-e462989b080d",
+      "fecha_utc": "2026-11-08T20:07:47+00:00",
+      "herramienta_id": "h003",
+      "herramienta_nombre": "Gemini",
+      "opinion_original": "Qué gran ayuda: me dio tres respuestas distintas a la misma pregunta.",
+      "sentimiento": "negativo",
+      "razon": "La opinión utiliza un tono irónico para criticar que la herramienta ofrece respuestas contradictorias a una misma pregunta.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "38b35fbb-e96e-5f23-ad2d-3b939b375ca5",
+      "fecha_utc": "2026-11-08T20:07:49+00:00",
+      "herramienta_id": "h003",
+      "herramienta_nombre": "Gemini",
+      "opinion_original": "Lo probé desde el celular y también desde el navegador del computador.",
+      "sentimiento": "neutro",
+      "razon": "La opinión describe de forma neutral las plataformas desde las cuales el usuario probó la herramienta, sin emitir ninguna valoración positiva o negativa.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "ac7c821e-84fc-5c64-8999-aa5ae7d02739",
+      "fecha_utc": "2026-11-08T20:07:50+00:00",
+      "herramienta_id": "h003",
+      "herramienta_nombre": "Gemini",
+      "opinion_original": "Responde muy rápido, pero sus explicaciones de programación son superficiales.",
+      "sentimiento": "mixto",
+      "razon": "La opinión elogia la velocidad de respuesta, pero critica que las explicaciones de programación son superficiales.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "a227afb8-9375-5719-a83f-3317cfae8cf4",
+      "fecha_utc": "2026-11-08T20:07:51+00:00",
+      "herramienta_id": "h014",
+      "herramienta_nombre": "Ollama",
+      "opinion_original": "Poder correr modelos en mi propio computador sin pagar es fantástico.",
+      "sentimiento": "positivo",
+      "razon": "La opinión elogia la capacidad de ejecutar modelos localmente y de forma gratuita.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "6413965d-ff95-50b0-b29a-1d354dd53923",
+      "fecha_utc": "2026-11-08T20:07:52+00:00",
+      "herramienta_id": "h014",
+      "herramienta_nombre": "Ollama",
+      "opinion_original": "Mi portátil se puso lentísimo y los modelos grandes ni siquiera cargaron.",
+      "sentimiento": "negativo",
+      "razon": "La opinión critica que la herramienta ralentiza el portátil y no logra cargar los modelos grandes.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "b0e1a328-b0a0-5076-a987-cd7ac8fa46d5",
+      "fecha_utc": "2026-11-08T20:07:53+00:00",
+      "herramienta_id": "h014",
+      "herramienta_nombre": "Ollama",
+      "opinion_original": "Se instala en el equipo y los modelos se descargan desde la terminal.",
+      "sentimiento": "neutro",
+      "razon": "La opinión describe objetivamente el proceso de instalación y descarga de modelos desde la terminal sin emitir juicios de valor.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "3bdb5ad6-b9d0-5255-8915-6d2f96c8dc19",
+      "fecha_utc": "2026-11-08T20:07:54+00:00",
+      "herramienta_id": "h014",
+      "herramienta_nombre": "Ollama",
+      "opinion_original": "Me encanta la privacidad de trabajar local, pero consume demasiada memoria.",
+      "sentimiento": "mixto",
+      "razon": "La opinión elogia la privacidad del trabajo local, pero critica el alto consumo de memoria.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    }
+  ]
+}
