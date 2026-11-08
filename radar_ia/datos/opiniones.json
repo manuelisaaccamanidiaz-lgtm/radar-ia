@@ -187,6 +187,160 @@
       "razon": "La opinión elogia la privacidad del trabajo local, pero critica el alto consumo de memoria.",
       "modelo": "gemini-3.5-flash-lite",
       "version_prompt": "1.0"
+    },
+    {
+      "id": "59c4e32b-6818-4ec7-8f6e-8c0874c9ca60",
+      "fecha_utc": "2026-11-08T20:21:41+00:00",
+      "herramienta_id": "h001",
+      "herramienta_nombre": "ChatGPT",
+      "opinion_original": "Sus respuestas son claras y me ahorran horas de trabajo",
+      "sentimiento": "positivo",
+      "razon": "La opinión elogia la claridad de las respuestas y destaca la utilidad de la herramienta para ahorrar tiempo de trabajo.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "1ba7266e-9395-4fd9-906a-4e33ad1c04ba",
+      "fecha_utc": "2026-11-08T20:22:33+00:00",
+      "herramienta_id": "h003",
+      "herramienta_nombre": "Gemini",
+      "opinion_original": "Sus respuestas fueron decepcionantes y llenas de errores",
+      "sentimiento": "negativo",
+      "razon": "La opinión critica la herramienta indicando que sus respuestas fueron decepcionantes y con errores.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "894f05db-17fc-4621-8afc-9c666cb7b0bb",
+      "fecha_utc": "2026-11-08T20:23:02+00:00",
+      "herramienta_id": "h002",
+      "herramienta_nombre": "Claude",
+      "opinion_original": "Es un asistente de inteligencia artificial",
+      "sentimiento": "neutro",
+      "razon": "La opinión describe un hecho objetivo sobre la naturaleza de la herramienta sin emitir una valoración positiva o negativa.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "4a2729e0-3fe7-4f7d-8df7-4dbadceb2789",
+      "fecha_utc": "2026-11-08T20:23:31+00:00",
+      "herramienta_id": "h005",
+      "herramienta_nombre": "GitHub Copilot",
+      "opinion_original": "Sugiere código muy rápido, pero muchas veces no compila",
+      "sentimiento": "mixto",
+      "razon": "La opinión destaca un aspecto positivo (sugiere código muy rápido) y al mismo tiempo una crítica relevante (muchas veces no compila).",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "1c94d788-9ac6-413e-82f5-d72130ec630a",
+      "fecha_utc": "2026-11-08T20:24:05+00:00",
+      "herramienta_id": "h005",
+      "herramienta_nombre": "GitHub Copilot",
+      "opinion_original": "Qué inteligente: no supo sumar dos más dos",
+      "sentimiento": "negativo",
+      "razon": "La opinión utiliza ironía para criticar un fallo evidente de la herramienta al no poder realizar una suma básica.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "960c7356-30ee-4740-bd53-18d142112fa4",
+      "fecha_utc": "2026-11-08T20:25:15+00:00",
+      "herramienta_id": "h010",
+      "herramienta_nombre": "Grok",
+      "opinion_original": "Qué inteligente: no supo sumar dos más dos",
+      "sentimiento": "negativo",
+      "razon": "La opinión utiliza ironía para criticar la incapacidad de la herramienta para realizar una suma sencilla.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "ab750fd2-c6f7-47b3-a15a-5b3dd07fafe3",
+      "fecha_utc": "2026-11-08T20:28:25+00:00",
+      "herramienta_id": "h001",
+      "herramienta_nombre": "ChatGPT",
+      "opinion_original": "muy buena ia, tal vez deba contratarla para que le enseñe a mi hijo a sumar",
+      "sentimiento": "positivo",
+      "razon": "La opinión elogia la utilidad de la inteligencia artificial de forma muy favorable con un comentario humorístico.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "d4081777-a617-4456-a09e-4283f5903e31",
+      "fecha_utc": "2026-11-08T20:30:45+00:00",
+      "herramienta_id": "h002",
+      "herramienta_nombre": "Claude",
+      "opinion_original": "claude me parece muy inteligente, es interesante todo lo que sabe de codigo",
+      "sentimiento": "positivo",
+      "razon": "La opinión elogia la inteligencia de la herramienta y destaca positivamente sus conocimientos en código.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "d2928ecc-ec59-4e8f-a1e3-1d2fe41f61eb",
+      "fecha_utc": "2026-11-08T20:31:00+00:00",
+      "herramienta_id": "h002",
+      "herramienta_nombre": "Claude",
+      "opinion_original": "es inutil para cualquier cosa que no sea codigo",
+      "sentimiento": "negativo",
+      "razon": "La opinión critica fuertemente la utilidad de la herramienta al afirmar que no sirve para nada que no sea código.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "3ebdc3ee-9d40-4f33-9d17-3205842a6ac8",
+      "fecha_utc": "2026-11-08T20:32:32+00:00",
+      "herramienta_id": "h001",
+      "herramienta_nombre": "ChatGPT",
+      "opinion_original": "me gusta, me casaria si pudiera con chat gpt",
+      "sentimiento": "positivo",
+      "razon": "La opini&oacute;n elogia de forma entusiasta la herramienta expresando un fuerte agrado.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "4f3eb8f3-bcef-458d-96c2-9a6be26bc48a",
+      "fecha_utc": "2026-11-08T20:32:53+00:00",
+      "herramienta_id": "h016",
+      "herramienta_nombre": "Cursor",
+      "opinion_original": "ni la conozco, no se que e slo que hace, creo que codigo",
+      "sentimiento": "neutro",
+      "razon": "La opinión indica que no conoce la herramienta y solo supone que tiene relación con el código, sin emitir una valoración positiva o negativa.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "247105bf-8e56-470f-8348-4cdc5cedd65a",
+      "fecha_utc": "2026-11-08T20:34:46+00:00",
+      "herramienta_id": "h001",
+      "herramienta_nombre": "ChatGPT",
+      "opinion_original": "me parece terrible",
+      "sentimiento": "negativo",
+      "razon": "La opinión expresa un juicio muy desfavorable hacia la herramienta con la palabra terrible.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "5c17d6be-5101-4c4d-a307-4f252f359477",
+      "fecha_utc": "2026-11-08T20:35:15+00:00",
+      "herramienta_id": "h001",
+      "herramienta_nombre": "ChatGPT",
+      "opinion_original": "parce, es lo mejor que hay visto",
+      "sentimiento": "positivo",
+      "razon": "La opinión elogia de manera contundente la herramienta, considerándola la mejor opción disponible.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
+    },
+    {
+      "id": "dc50ec79-c8e5-4f48-ac34-74b1798b4fb8",
+      "fecha_utc": "2026-11-08T20:44:58+00:00",
+      "herramienta_id": "h003",
+      "herramienta_nombre": "Gemini",
+      "opinion_original": "comoda de usar",
+      "sentimiento": "positivo",
+      "razon": "La opinión elogia la comodidad de uso de la herramienta.",
+      "modelo": "gemini-3.5-flash-lite",
+      "version_prompt": "1.0"
     }
   ]
 }
