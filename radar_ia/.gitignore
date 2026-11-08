@@ -1,0 +1,15 @@
+# Secretos
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Temporales de guardado que pudieran quedar tras un corte
+datos/.opiniones_*.tmp
+
+# Streamlit / editores
+.streamlit/secrets.toml
+.DS_Store
