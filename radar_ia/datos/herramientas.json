@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "herramientas": [
+    {"id": "h001", "nombre": "ChatGPT", "empresa": "OpenAI", "tipo": "asistente"},
+    {"id": "h002", "nombre": "Claude", "empresa": "Anthropic", "tipo": "asistente"},
+    {"id": "h003", "nombre": "Gemini", "empresa": "Google", "tipo": "asistente"},
+    {"id": "h004", "nombre": "Microsoft Copilot", "empresa": "Microsoft", "tipo": "asistente"},
+    {"id": "h005", "nombre": "GitHub Copilot", "empresa": "GitHub", "tipo": "programación"},
+    {"id": "h006", "nombre": "Llama", "empresa": "Meta", "tipo": "modelo abierto"},
+    {"id": "h007", "nombre": "Meta AI", "empresa": "Meta", "tipo": "asistente"},
+    {"id": "h008", "nombre": "Mistral Le Chat", "empresa": "Mistral AI", "tipo": "asistente"},
+    {"id": "h009", "nombre": "DeepSeek", "empresa": "DeepSeek", "tipo": "modelo abierto"},
+    {"id": "h010", "nombre": "Grok", "empresa": "xAI", "tipo": "asistente"},
+    {"id": "h011", "nombre": "Perplexity", "empresa": "Perplexity AI", "tipo": "asistente"},
+    {"id": "h012", "nombre": "Qwen", "empresa": "Alibaba", "tipo": "modelo abierto"},
+    {"id": "h013", "nombre": "Kimi", "empresa": "Moonshot AI", "tipo": "asistente"},
+    {"id": "h014", "nombre": "Ollama", "empresa": "Ollama", "tipo": "herramienta local"},
+    {"id": "h015", "nombre": "NotebookLM", "empresa": "Google", "tipo": "asistente"},
+    {"id": "h016", "nombre": "Cursor", "empresa": "Anysphere", "tipo": "programación"},
+    {"id": "h017", "nombre": "Midjourney", "empresa": "Midjourney", "tipo": "imágenes"},
+    {"id": "h018", "nombre": "DALL·E", "empresa": "OpenAI", "tipo": "imágenes"},
+    {"id": "h019", "nombre": "Stable Diffusion", "empresa": "Stability AI", "tipo": "imágenes"},
+    {"id": "h020", "nombre": "Character.AI", "empresa": "Character.AI", "tipo": "asistente"}
+  ]
+}
