@@ -1,0 +1,12 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: radar-ia-dev
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app          # tu carpeta del PC aparece en /app dentro del contenedor
+    working_dir: /app
+    command: sleep infinity   # el contenedor queda encendido; Streamlit se lanza a mano
